@@ -3,7 +3,7 @@
 📝 Description
 This project is a bookstore purchase calculator, developed for ICE Task 1 at Rosebank College. It helps customers calculate their total book purchase cost, apply discounts, and generate a receipt. The program collects book titles and prices, applies a 10% discount if the total exceeds R500, and displays a detailed receipt. Built using Java and Scanner for user input. 🚀
 
-🚀 Features
+🚀 Features:
 ✔️ Ask for the number of books a customer wants to buy.
 ✔️ Collect book titles and prices.
 ✔️ Calculate the total cost of all books.
